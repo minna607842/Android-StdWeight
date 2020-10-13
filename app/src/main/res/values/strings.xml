@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Standard Weight</string>
+    <string name="heightText">Your Height:</string>
+    <string name="calcBtn">Calc</string>
+    <string name="weightText">Calculate Standard Weight</string>
+    <string name="stdWeight">Standard Weight:</string>
+    <string name="errorMsg">Enter Number</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
